@@ -1,4 +1,4 @@
-
+(Fantasy case, not actually plausible with this dataset.)
 
 The database is intended to serve as the foundation for a sports analytics platform designed for Formula 1 enthusiasts, fantasy league operators, and prediction or betting services. Rather than requiring users to consult multiple disparate sources for historical statistics, this system provides a single, structured source of truth for:
 
